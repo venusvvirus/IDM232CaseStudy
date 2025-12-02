@@ -24,6 +24,16 @@
       sans-serif;
   }
   
+  .cs-link {
+    color: #71B69C;
+    text-decoration: none;
+    font-weight: 600;
+  }
+  
+  .cs-link:hover {
+    text-decoration: underline;
+  }
+  
   .cs-wrapper {
     max-width: 1440px;
     margin: 0 auto;
